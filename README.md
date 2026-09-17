@@ -11,7 +11,7 @@ My name is John Vincent.
 GitBash is okay to learn.
 I have installed GitBash at home
 
-
+I am a first year BIT student at Otago Polytech.
 
 
 
