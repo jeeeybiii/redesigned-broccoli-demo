@@ -6,6 +6,10 @@ Hello World!
 Programming is fun.
 
 
+My name is John Vincent
+
+Database is a difficult topic to learn.
+
 
 My name is John Vincent.
 
@@ -18,4 +22,5 @@ My name is Dominik
 Programming is ez pz
  
 My name is Aki 
+
 
