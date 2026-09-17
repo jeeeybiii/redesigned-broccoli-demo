@@ -11,13 +11,17 @@
             y = int.Parse(Console.ReadLine());
 
             Console.WriteLine(Add(x, y));
-
+            Console.WriteLine(Subtract(x, y));
             Console.ReadLine();
         }
 
         public static int Add(int x, int y)
         {
             return x + y;
+        }
+
+        public static int Subtract(int x, int y) { 
+            return x - y;
         }
     }
 }
