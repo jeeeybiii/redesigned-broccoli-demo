@@ -6,3 +6,5 @@ Hello World!
 Programming is fun.
 
 GitBash is okay to learn.
+ 
+My name is Aki 
