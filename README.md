@@ -5,6 +5,11 @@ Hello World!
 
 Programming is fun.
 
+
+
+My name is John Vincent.
+
 GitBash is okay to learn.
+
  
 My name is Aki 
