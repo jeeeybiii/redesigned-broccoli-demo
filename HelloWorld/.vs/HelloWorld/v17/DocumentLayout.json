@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\test git\\HelloWorld\\",
+  "WorkspaceRootPath": "H:\\testgit\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4C0D6C2-19F9-415A-8265-ECD8B28C473E}|HelloWorld\\HelloWorld.csproj|h:\\test git\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4C0D6C2-19F9-415A-8265-ECD8B28C473E}|HelloWorld\\HelloWorld.csproj|h:\\testgit\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4C0D6C2-19F9-415A-8265-ECD8B28C473E}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\test git\\HelloWorld\\HelloWorld\\Program.cs",
+              "DocumentMoniker": "H:\\testgit\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
-              "ToolTip": "H:\\test git\\HelloWorld\\HelloWorld\\Program.cs",
+              "ToolTip": "H:\\testgit\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeToolTip": "HelloWorld\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T21:46:04.565Z",
               "EditorCaption": ""
