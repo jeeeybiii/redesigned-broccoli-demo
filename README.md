@@ -13,4 +13,9 @@ GitBash is okay to learn.
 
 
 
+
 My name is Dominik
+
+ 
+My name is Aki 
+
