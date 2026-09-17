@@ -17,6 +17,9 @@ GitBash is okay to learn.
 
 
 
+HELLOOOOOOOOOOOO
+
+
 
 My name is Dominik
 Programming is ez pz
@@ -24,3 +27,4 @@ Programming is ez pz
 My name is Aki 
 
 I don't know why i am here
+
